@@ -1,3 +1,4 @@
 ansible/
 set-ssh_kernel-update_system-update.sh
+jenkins_install.sh
 initialize.sh
