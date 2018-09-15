@@ -7,3 +7,5 @@
 1. 「initialize.sh」を実行する
 
 1. 作成された「set-ssh_kernel-update_system-update.sh」を実行する
+
+1. jenkins.tar.gzを「/tmp」へ配置する
